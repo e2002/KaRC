@@ -1,5 +1,5 @@
 # KaRC
-<img src="img/preview.jpg" width="25%" height="25%">
+
 ## Dependencies
 - HX1230_FB library https://github.com/cbm80amiga/HX1230_FB
 - OneButton Library https://github.com/mathertel/OneButton
