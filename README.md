@@ -10,4 +10,13 @@
 - TC4056 module https://aliexpress.ru/item/32825983420.html
 - BL5C battery https://aliexpress.ru/item/1005002239609662.html
 ## Assembly 
+###### Display
+RST -> D3  
+CS -> D8  
+BL -> D6  
+DIN -> D7  
+CLK -> D5  
+###### Buttons
+
+###### Battery
 ## Known issues
