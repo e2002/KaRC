@@ -1,2 +1,2 @@
 # KaRC
-![preview](img/preview.jpg | width=100)
+![preview](img/preview.jpg){:height="50%" width="50%"}
