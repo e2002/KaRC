@@ -1,2 +1,2 @@
 # KaRC
-![preview](img/preview.jpg)
+![preview](img/preview.jpg | width=100)
