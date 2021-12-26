@@ -16,7 +16,17 @@ CS -> D8
 BL -> D6  
 DIN -> D7  
 CLK -> D5  
+GND -> GND  
+VCC -> VCC  
 ###### Buttons
-
+K1 -> D4  
+K2 -> D2  
+K3 -> D1  
+K4 -> RST  
+GND -> GND  
 ###### Battery
+B- -> Batt-  
+B+ -> Batt+  
+OUT- -> GND  
+OUT+ -> VCC  
 ## Known issues
