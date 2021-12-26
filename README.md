@@ -1,5 +1,5 @@
 # KaRC
-[![Preview](img/preview.jpg)](img/preview420.jpg)
+[![Preview](img/preview420.jpg)](img/preview.jpg)
 ## Dependencies
 - HX1230_FB library https://github.com/cbm80amiga/HX1230_FB
 - OneButton Library https://github.com/mathertel/OneButton
