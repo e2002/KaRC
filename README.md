@@ -1,5 +1,5 @@
 # KaRC
-[KaRadio](https://github.com/karawin/Ka-Radio32) remote control via telnet.  
+Remote control of the [KaRadio](https://github.com/karawin/Ka-Radio32) via telnet.  
 [![Preview](img/preview420.jpg)](img/preview.jpg) [![Preview](img/preview2420.jpg)](img/preview2.jpg)
 ## Dependencies
 - AutoConnect Library https://github.com/Hieromon/AutoConnect
