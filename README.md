@@ -39,4 +39,6 @@ B- -> Batt-
 B+ -> Batt+  
 OUT- -> GND  
 OUT+ -> 5V
+## Initial setup
+## Control
 ## Known issues
