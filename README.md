@@ -13,7 +13,7 @@
 - Paper clips brass plated https://www.erichkrause.com/en/catalog/Paper_clips_105/paper_clips_brass_plated_erichkrause_28mm_plastic_box_200_pcs_19739/
 ## Assembly 
 ### Wemos
-[![D1](img/d1res420.jpg)](img/d1res.jpg)
+[![D1](img/d1res420.jpg)](img/d1res.jpg)  
 Replace the 220kOhm resistor on the circuit board of the Wemos D1 Mini with a 510kOhm resistor.  
 Connect pin A0 to pin 5v.
 ### Display
@@ -31,7 +31,7 @@ K3 -> D1
 K4 -> RST  
 GND -> GND
 ### TC4056 module
-[![TC4056](img/tc4056420.jpg)](img/tc4056.jpg)
+[![TC4056](img/tc4056420.jpg)](img/tc4056.jpg)  
 Replace the 1.2kOhm resistor on the TC4056 module with a 3kOhm resistor.
 B- -> Batt-  
 B+ -> Batt+  
