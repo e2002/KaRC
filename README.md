@@ -1,7 +1,8 @@
 # KaRC
 [![Preview](img/preview420.jpg)](img/preview.jpg)
 ## Dependencies
-- HX1230_FB library https://github.com/cbm80amiga/HX1230_FB
+- AutoConnect Library https://github.com/Hieromon/AutoConnect
+- HX1230_FB Library https://github.com/cbm80amiga/HX1230_FB
 - OneButton Library https://github.com/mathertel/OneButton
 ## BOM
 - HX1230 Display http://chip69.ru/catalog/108689
@@ -10,21 +11,21 @@
 - TC4056 module https://aliexpress.ru/item/32825983420.html
 - BL5C battery https://aliexpress.ru/item/1005002239609662.html
 ## Assembly 
-###### Display
+### Display
 RST -> D3  
 CS -> D8  
-BL -> D6  
 DIN -> D7  
 CLK -> D5  
-GND -> GND  
 VCC -> VCC  
-###### Buttons
+BL -> D6  
+GND -> GND  
+### Buttons
 K1 -> D4  
 K2 -> D2  
 K3 -> D1  
 K4 -> RST  
 GND -> GND  
-###### Battery
+### Battery
 B- -> Batt-  
 B+ -> Batt+  
 OUT- -> GND  
