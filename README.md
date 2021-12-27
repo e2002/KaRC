@@ -11,6 +11,7 @@ Remote control of the [KaRadio](https://github.com/karawin/Ka-Radio32) via telne
 - 1x4 buttons 5 pins board https://aliexpress.ru/item/32886402552.html
 - TC4056 module https://aliexpress.ru/item/32825983420.html
 - BL5C battery https://aliexpress.ru/item/1005002239609662.html
+- Screws https://aliexpress.ru/item/1005001870799002.html
 - Paper clips brass plated https://www.erichkrause.com/en/catalog/Paper_clips_105/paper_clips_brass_plated_erichkrause_28mm_plastic_box_200_pcs_19739/
 ## Assembly 
 ### Wemos
