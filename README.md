@@ -32,7 +32,7 @@ K4 -> RST
 GND -> GND
 ### TC4056 module
 [![TC4056](img/tc4056420.jpg)](img/tc4056.jpg)  
-Replace the 1.2kOhm resistor on the TC4056 module with a 3kOhm resistor.
+Replace the 1.2kOhm resistor on the TC4056 module with a 3kOhm resistor.  
 B- -> Batt-  
 B+ -> Batt+  
 OUT- -> GND  
