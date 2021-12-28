@@ -19,13 +19,15 @@ Remote control of the [KaRadio](https://github.com/karawin/Ka-Radio32) via telne
 Replace the 220kOhm resistor on the circuit board of the Wemos D1 Mini with a 510kOhm resistor.  
 Connect pin A0 to pin 5v.
 ### Display
-RST -> D3  
-CS -> D8  
-DIN -> D7  
-CLK -> D5  
-VCC -> VCC  
-BL -> D6  
-GND -> GND
+| HX1230 | Wemos |
+| ------ | ------ |
+| RST | D3 |
+| CS  | D8 |
+| DIN | D7 |
+| CLK | D5 |
+| VCC | VCC |
+| BL | D6 |
+| GND | GND |
 ### Buttons
 K1 -> D4  
 K2 -> D2  
@@ -42,3 +44,7 @@ OUT+ -> 5V
 ## Initial setup
 ## Control
 ## Known issues
+### Slowly connects to KaRadio when playback is stopped.  
+Solution: -  
+### Does not turn on when the battery is connected.  
+Solution: briefly apply power to the module.
