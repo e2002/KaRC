@@ -46,7 +46,7 @@ Replace the 1.2kOhm resistor on the TC4056 module with a 3kOhm resistor.
 | OUT- | GND |
 | OUT+ | 5V |
 ## Initial setup
-#### *In progress
+#### _In progress_
 ## Control
 |  | BTN1 | BTN2 | BTN3 | BTN4 |
 | ------ | ------ | ------ | ------ | ------ |
