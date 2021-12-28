@@ -29,22 +29,26 @@ Connect pin A0 to pin 5v.
 | BL | D6 |
 | GND | GND |
 ### Buttons
-K1 -> D4  
-K2 -> D2  
-K3 -> D1  
-K4 -> RST  
-GND -> GND
+| 1x4 Module | Wemos |
+| ------ | ------ |
+| K1 | D4 |
+| K2 | D2 |
+| K3 | D1 |
+| K4 | RST |
+| GND | GND |
 ### TC4056 module
 [![TC4056](img/tc4056420.jpg)](img/tc4056.jpg)  
 Replace the 1.2kOhm resistor on the TC4056 module with a 3kOhm resistor.  
-B- -> Batt-  
-B+ -> Batt+  
-OUT- -> GND  
-OUT+ -> 5V
+| TC4056 | BL5C/Wemos |
+| ------ | ------ |
+| B- | Batt- |
+| B+ | Batt+ |
+| OUT- | GND |
+| OUT+ | 5V |
 ## Initial setup
 ## Control
 ## Known issues
-### Slowly connects to KaRadio when playback is stopped.  
+#### Slowly connects to KaRadio when playback is stopped.  
 Solution: -  
-### Does not turn on when the battery is connected.  
+#### Does not turn on when the battery is connected.  
 Solution: briefly apply power to the module.
