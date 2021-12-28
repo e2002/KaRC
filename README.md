@@ -47,6 +47,11 @@ Replace the 1.2kOhm resistor on the TC4056 module with a 3kOhm resistor.
 | OUT+ | 5V |
 ## Initial setup
 ## Control
+|  | BTN1 | BTN2 | BTN3 | BTN4 |
+| ------ | ------ | ------ | ------ | ------ |
+| Click | Vol- | Play/Pause | Vol+ | Reset |
+| DblClick | - | Show IP | - | - |
+| LongPress | Deep Sleep | Play List | Show IP | - |
 ## Known issues
 #### Slowly connects to KaRadio when playback is stopped.  
 Solution: -  
